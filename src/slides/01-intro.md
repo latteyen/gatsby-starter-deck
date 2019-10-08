@@ -37,24 +37,24 @@
 
 
 ---
-Holiday Inn Express Siam
+
 ![ace](./hiex.png)
-Landing Page for Google Ads Campaign
+
 
 ---
-Yaang Come Village
+
 ![ace](./yaang.png)
-Customized Website Design Project using WordPress CMS
+
 
 ---
-Aga Beauty
+
 ![ace](./aga.png)
-Website Design Project using WordPress CMS
+
 
 ---
-Woo Cafe, Lifestyle Shop & Art Gallery
+
 ![ace](./woo.png)
-Website Design Project
+
 
 ---
 
