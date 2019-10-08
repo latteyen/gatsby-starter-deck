@@ -10,8 +10,7 @@ High Performance Hotel Website Design
 
 ---
 
-> Hotel Website Development
-> Cloud Hotel Management Systems 
+> Hotel Website Development                                           test 
 
 ---
 
@@ -48,8 +47,8 @@ Yaang Come Village
 Customized Website Design Project using WordPress CMS
 
 ---
-Jenny Sweet Thailand
-![ace](./Webp.net-resizeimage.png)
+Aga Beauty
+![ace](./aga.png)
 Website Design Project using WordPress CMS
 
 ---
