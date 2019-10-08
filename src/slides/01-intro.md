@@ -1,32 +1,49 @@
 # Web Bangkok
 
-High Performance Responsive Website Design
 
----
-
-![xkcd on standards](./ace.png)
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+![ace](./ace.png)
 
 
 ---
 
-## Slides are written in Markdown!
+High Performance Responsive Hotel Website Design
 
-Here's the source of the first slide:
+---
+
+> Cloud Hotel Management Systems,
+> Hotel Website Development and revenue management services.
+> Revenue Management Services.
+> Supproting 100+ clients in Thailand 
+> <cite>www.acemsthailand.com</cite>
+
+
+---
+
+Aruntara Riverside Boutique Hotel
+![ace](./aruntara_hotel_website.png)
+<cite>Full WordPress Website Design + Booking Engine</cite>
+
+---
+
+Holiday Inn Express Siam
+![ace](./hiex.png)
+<cite>Landing Page for Google Ads Campaign</cite>
+
+---
+
+Yaang Come Village
+![ace](./yaang.png)
+<cite>Customized Website Design Project using WordPress CMS</cite>
+
+---
+
+## ACE Marketing Solutions
+
+Park Ventures Ecoplex (Level 18) 
+57 Wireless Road, Lumpini, 
+Pathumwan, Bangkok 10330 Thailand
+www.acemsthailand.com
 
     # Gatsby Deck
 
-    Create presentations using Gatsby & React.
- ---   
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+---
