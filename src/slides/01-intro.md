@@ -6,11 +6,11 @@
 
 ---
 
-High Performance Responsive Hotel Website Design
+High Performance Hotel Website Design
 
 ---
 
-> Cloud Hotel Management Systems
+> Cloud Hotel Management Systems                                                      
 > Hotel Website Development
 > Revenue Management Services
 > Supporting 100+ clients in Thailand 
@@ -29,6 +29,16 @@ Holiday Inn Express Siam
 Yaang Come Village
 ![ace](./yaang.png)
 <cite>Customized Website Design Project using WordPress CMS</cite>
+---
+
+Jenny Sweet Thailand
+![ace](./jenny_sweet_thailand_website.png)
+<cite>Website Design Project using WordPress CMS</cite>
+
+---
+Woo Cafe, Lifestyle Shop & Art Gallery
+![ace](./woo.png)
+<cite>Website Design Project</cite>
 ---
 
 ## ACE Marketing Solutions
