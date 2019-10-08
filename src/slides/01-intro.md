@@ -34,7 +34,6 @@ Yaang Come Village
 
 ---
 Jenny Sweet Thailand
-
 ![ace](./jenny_sweet_thailand_website.png)
 <cite>Website Design Project using WordPress CMS</cite>
 
