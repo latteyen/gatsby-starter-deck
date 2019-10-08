@@ -10,10 +10,10 @@ High Performance Responsive Hotel Website Design
 
 ---
 
-> Cloud Hotel Management Systems,
-> Hotel Website Development and revenue management services.
-> Revenue Management Services.
-> Supproting 100+ clients in Thailand 
+> Cloud Hotel Management Systems
+> Hotel Website Development
+> Revenue Management Services
+> Supporting 100+ clients in Thailand 
 > <cite>www.acemsthailand.com</cite>
 
 
