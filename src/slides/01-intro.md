@@ -30,11 +30,9 @@ Yaang Come Village
 ![ace](./yaang.png)
 <cite>Customized Website Design Project using WordPress CMS</cite>
 ---
-
 Jenny Sweet Thailand
 ![ace](./jenny_sweet_thailand_website.png)
 <cite>Website Design Project using WordPress CMS</cite>
-
 ---
 Woo Cafe, Lifestyle Shop & Art Gallery
 ![ace](./woo.png)
