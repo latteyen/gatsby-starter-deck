@@ -10,31 +10,32 @@ High Performance Hotel Website Design
 
 ---
 
-> Cloud Hotel Management Systems 
-
----
-
-> Cloud Hotel Management Systems 
 > Hotel Website Development
+> Cloud Hotel Management Systems 
 
 ---
 
+> Hotel Website Development
+> Cloud Hotel Management Systems 
+
+---
+
+> Hotel Website Development
 > Cloud Hotel Management Systems
-> Hotel Website Development
 > Revenue Management Services
 
 ---
 
-> Cloud Hotel Management Systems
 > Hotel Website Development
+> Cloud Hotel Management Systems
 > Revenue Management Services
 > Supporting 100+ clients in Thailand 
 > <cite>www.acemsthailand.com</cite>
 
 ---
-Aruntara Riverside Boutique Hotel
+
 ![ace](./aruntara_hotel_website.png)
-Full WordPress Website Design + Booking Engine
+
 
 ---
 Holiday Inn Express Siam
