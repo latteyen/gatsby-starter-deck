@@ -12,7 +12,7 @@ const Header = ({ name, title, date }) => (
     <Link to="/1">
       <span>{name}</span> — {title}
     </Link>
-    <time>![ace](./ace.png)</time>
+    <time>{date}</time>
   </header>
 );
 
