@@ -12,7 +12,7 @@ const Header = ({ name, title, date }) => (
     <Link to="/1">
       <span>{name}</span> — {title}
     </Link>
-    [![deploys by netlify](https://www.acemsthailand.com/index/img/logo/ace-logo.png)](https://www.netlify.com)
+    <time>![ace](./ace.png)</time>
   </header>
 );
 
