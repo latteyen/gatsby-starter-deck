@@ -18,29 +18,17 @@ High Performance Responsive Hotel Website Design
 
 
 ---
-
 Aruntara Riverside Boutique Hotel
 ![ace](./aruntara_hotel_website.png)
 <cite>Full WordPress Website Design + Booking Engine</cite>
-Aruntara Riverside Boutique Hotel
-![ace](./aruntara_hotel_website.png)
-<cite>Full WordPress Website Design + Booking Engine</cite>
-Aruntara Riverside Boutique Hotel
-![ace](./aruntara_hotel_website.png)
-<cite>Full WordPress Website Design + Booking Engine</cite>
-
 ---
-
 Holiday Inn Express Siam
 ![ace](./hiex.png)
 <cite>Landing Page for Google Ads Campaign</cite>
-
 ---
-
 Yaang Come Village
 ![ace](./yaang.png)
 <cite>Customized Website Design Project using WordPress CMS</cite>
-
 ---
 
 ## ACE Marketing Solutions
