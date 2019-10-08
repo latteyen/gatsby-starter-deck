@@ -10,7 +10,7 @@ High Performance Hotel Website Design
 
 ---
 
-> Hotel Website Development </br                                      
+> Hotel Website Development </br>                                      
 
 ---
 
@@ -67,8 +67,8 @@ High Performance Hotel Website Design
 
 > Park Ventures Ecoplex (Level 18)
 > Wireless Road, Lumpini,
-> Pathumwan, Bangkok 10330
-> Thailand
+> Pathumwan, Bangkok 10330 </br>
+> Thailand </br>
 > www.acemsthailand.com
 
 
