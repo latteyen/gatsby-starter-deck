@@ -49,7 +49,7 @@ Customized Website Design Project using WordPress CMS
 
 ---
 Jenny Sweet Thailand
-![ace](./jenny_sweet_thailand_website.png)
+![ace](./Webp.net-resizeimage.png)
 Website Design Project using WordPress CMS
 
 ---
