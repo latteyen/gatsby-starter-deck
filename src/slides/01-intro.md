@@ -15,18 +15,18 @@ High Performance Hotel Website Design
 ---
 
 > Hotel Website Development
-> Cloud Hotel Management Systems 
+> Cloud Hotel Systems 
 
 ---
 
 > Hotel Website Development
-> Cloud Hotel Management Systems
+> Cloud Hotel Systems
 > Revenue Management Services
 
 ---
 
 > Hotel Website Development
-> Cloud Hotel Management Systems
+> Cloud Hotel Systems
 > Revenue Management Services
 > Supporting 100+ clients in Thailand 
 > <cite>www.acemsthailand.com</cite>
