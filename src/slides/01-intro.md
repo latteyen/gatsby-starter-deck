@@ -10,25 +10,25 @@ High Performance Hotel Website Design
 
 ---
 
-> Hotel Website Development                                           
+> Hotel Website Development </br                                      
 
 ---
 
-> Hotel Website Development
+> Hotel Website Development</br>
 > Hotel Systems 
 
 ---
 
-> Hotel Website Development
-> Hotel Systems
+> Hotel Website Development</br>
+> Hotel Systems</br>
 > Revenue Management Services
 
 ---
 
-> Hotel Website Development
-> Hotel Systems
-> Revenue Management Services
-> Supporting 100+ clients in Thailand 
+> Hotel Website Development</br>
+> Hotel Systems</br>
+> Revenue Management Services</br>
+> Supporting 100+ clients in Thailand </br>
 > <cite>www.acemsthailand.com</cite>
 
 ---
